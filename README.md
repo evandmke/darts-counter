@@ -1,7 +1,7 @@
 # darts-game
 Dart Counter:
 A console-based dart scoring program for the classic 301 and 501 darts games. Supports multiple players and automatically tracks scores, handles invalid inputs, and announces the winner.
-Try it out here: https://onlinegdb.com/ZdKhR0Rt_
+Try it out here: https://onlinegdb.com/gVaXUiWZ1
 
 Features:
 
